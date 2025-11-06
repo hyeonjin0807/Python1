@@ -37,7 +37,7 @@ print("90점 이상 과목의 키:", list(high_scores.keys()))
 
 #과제 31
 yoo = {'korean': 94, 'english': 91, 'mathematics': 89, 'science': 83}
-scores = list(y00.values())
+scores = list(yoo.values())
 if len(scores) == 0:
     print("딕셔너리에 과목이 없습니다.")
 else:
